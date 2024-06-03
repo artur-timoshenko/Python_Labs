@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<FootballClub>
+  <Team id="1" name="Barcelona">
+    <Player name="Messi" number="10"/>
+    <Player name="Neymar" number="11"/>
+  </Team>
+  <Team id="2" name="Real Madrid">
+    <Player name="Ronaldo" number="7"/>
+  </Team>
+</FootballClub>
